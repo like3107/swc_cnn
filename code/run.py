@@ -1,7 +1,7 @@
 #from pyzem.swc import swc
 import swc
 import dataprovider
-import cv2
+
 import os,os.path
 import numpy as np 
 import scipy.misc
