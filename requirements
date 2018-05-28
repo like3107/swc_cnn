@@ -1,0 +1,7 @@
+重要依赖库
+numpy 
+pandas
+pillow
+scipy
+tensorflow 1.1
+pyzem
