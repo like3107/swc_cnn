@@ -5,7 +5,7 @@ import swc
 import numpy as np
 import os
 import os.path
-import cv2
+
 import scipy.misc
 
 level_limit = 112
