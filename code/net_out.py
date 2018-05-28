@@ -6,7 +6,7 @@ import time
 import math 
 import pandas as pd
 import scipy.misc
-import cv2
+
 result = np.zeros((0,5))
 new = True
 model_ckpt = 'model2s/model.ckpt.index'
