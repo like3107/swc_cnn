@@ -7,7 +7,6 @@ import numpy as np
 import scipy.misc
 import transfer
 print('start data preprocessing')
-'''
 tree = swc.SwcTree()
 dp = dataprovider.dataprovider()
 dp.load(tree)
@@ -21,7 +20,6 @@ dp.tran_file('../celldata/GABAergic')
 dp.tran_file('../celldata/granule01')
 dp.tran_file('../celldata/nitrergic')
 dp.tran_file('../celldata/pyrimidal')
-'''
 print("step1 complete!")
 pathdir = ['data/GABAergic','data/granule01','data/nitrergic','data/pyrimidal']
 for i in range(0,len(pathdir)):
